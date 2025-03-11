@@ -1,0 +1,28 @@
+12:12:00.862 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+12:12:00.878 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:12:04.610 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+12:12:04.939 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Accountregistrationtest *****
+09:31:10.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+09:50:22.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+09:52:52.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+09:58:11.658 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+09:58:12.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml
+
+14:10:32.796 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+14:10:43.485 [main] INFO  testCases.TC002_LoginTest - *** Starting TC_002_LoginTest ***
+14:11:03.016 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** starting TC001_AccountRegistrationtest  *****
+14:11:03.352 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+14:11:05.374 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+14:11:05.380 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:11:08.688 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:11:09.052 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Accountregistrationtest *****
+14:11:29.286 [main] INFO  testCases.TC002_LoginTest - *** Starting TC_002_LoginTest ***
+14:11:52.829 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** starting TC001_AccountRegistrationtest  *****
+14:11:53.222 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+14:11:55.202 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+14:11:55.204 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:11:57.872 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:11:58.050 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_Accountregistrationtest *****
+14:24:28.422 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\KTL-PC-0016-1\OneDrive\seleniumwebdriver\OpencartV121\master.xml"
+14:24:46.078 [main] INFO  testCases.TC002_LoginTest - *** Starting TC_002_LoginTest ***
